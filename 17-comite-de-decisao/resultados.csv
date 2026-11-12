@@ -1,0 +1,5 @@
+teste,metrica,papel,regra,minimo_pontos,combinado_em,a_sim,a_total,b_sim,b_total
+frete,compra na mesma visita,sucesso,pior_caso,1,2025-08-14,607,5997,596,5996
+botao,compra na mesma visita,sucesso,pior_caso,1,2025-07-31,608,5999,685,5994
+retire,compra em 7 dias,sucesso,estimativa,2,2026-02-01,3645,11250,3930,11230
+retire,reclamação da retirada em 14 dias,protecao,protecao,1,2026-02-01,112,11250,258,11230

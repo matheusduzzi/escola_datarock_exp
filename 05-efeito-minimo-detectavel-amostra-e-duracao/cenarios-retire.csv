@@ -1,0 +1,7 @@
+cenario,metrica,base,desvio,minimo,contas_por_semana,teto_contas,semanas,inicio,dias_depois
+9.000 em 4 semanas,proporcao,0.32,,0.02,662.5,9000,4,2026-02-02,13
+9.000 em 8 semanas,proporcao,0.32,,0.02,662.5,9000,8,2026-02-02,13
+9.000 em 14 semanas,proporcao,0.32,,0.02,662.5,9000,14,2026-02-02,13
+aberto em 4 semanas,proporcao,0.32,,0.02,1505,,4,2026-02-02,13
+aberto em 12 semanas,proporcao,0.32,,0.02,1505,,12,2026-02-02,13
+aberto -20% 12 sem.,proporcao,0.32,,0.02,1204,,12,2026-02-02,13
